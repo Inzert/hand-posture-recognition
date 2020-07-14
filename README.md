@@ -4,5 +4,5 @@ Classifying hand postures from motion capture data is a challenging problem. Mea
 ---
 File description:
 - **HG_Dataset:** Contains testing and training datasets
-- **Preprocessing_Feature_Selection_Model_Tuning_Code.ipynb:** Feature extraction and selection, standardization, and model tuning using cross-validation on training dataset
+- **Model_Tuning.ipynb:** Feature extraction and selection, standardization, and model tuning using cross-validation on training dataset
 - **Final_Models_Evaluation.ipynb:** Evaluation of final models on testing dataset
